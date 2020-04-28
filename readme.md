@@ -1,6 +1,8 @@
 # Scroll Showoff
 
-Click the browser button and lean back while the page scrolls down slowly. Perfect for a screen recording
+Click the browser button and lean back while the page scrolls down slowly. Perfect for a screen recording.
+
+## [Example](https://twitter.com/Urre/status/1253371225600077825)
 
 ## Install
 
