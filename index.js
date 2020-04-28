@@ -29,7 +29,6 @@ autoScroll = newValue => {
   scrollTimer = setInterval(() => {
     currentTime = Date.now();
     if (prevTime && !isScrolling) {
-      // if (!isScrolling) {
         timeDiff = currentTime - prevTime;
         currentPos += scrollSpeed * timeDiff;
         if (Math.abs(currentPos - prevPos) >= minDelta) {
@@ -39,7 +38,6 @@ autoScroll = newValue => {
           prevPos = currentPos;
           prevTime = currentTime;
         }
-      // }
     } else {
       prevTime = currentTime;
     }
