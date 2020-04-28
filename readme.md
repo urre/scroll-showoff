@@ -1,8 +1,10 @@
-# Scroll Showoff
+# Scroll Show-off
 
 Chrome Extension. Click the browser button and lean back while the page scrolls down slowly. Perfect for a screen recording.
 
-## [Example](https://twitter.com/Urre/status/1253371225600077825)
+![](https://res.cloudinary.com/urre/image/upload/v1588104517/scroll-showoff_wpq4nn.gif)
+
+> The GIF is choppy. Scrolling is smooth :)
 
 ## Install
 
