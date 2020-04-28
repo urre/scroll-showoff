@@ -2,7 +2,7 @@
 
 Chrome Extension. Click the browser button and lean back while the page scrolls down slowly. Perfect for a screen recording.
 
-![](https://res.cloudinary.com/urre/image/upload/v1588104517/scroll-showoff_wpq4nn.gif)
+![scroll-showoff](https://user-images.githubusercontent.com/307676/80532915-1f867e00-899d-11ea-93db-aa462fea4b19.gif)
 
 > The GIF is choppy. Scrolling is smooth :)
 
