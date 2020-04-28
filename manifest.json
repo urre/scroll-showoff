@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Scroll Showoff",
-  "description": "Scroll a website down slowly – perfect for a screen recording",
+  "description": "Chrome Extension to scroll a website down slowly – perfect for a screen recording",
   "version": "1.0.1",
   "background": {
     "scripts": ["background.js"],
