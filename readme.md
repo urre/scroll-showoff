@@ -15,7 +15,7 @@ Chrome Extension. Click the browser button and lean back while the page scrolls 
 + Navigate to the folder where you saved it
 
 ## Usage
-+ Click the extension browser button icon to get branch name in your clipboard
++ Click the extension browser button icon to scroll down the current page
 
 ### Changelog
 + 2020-04-26: 🎉 First version released
